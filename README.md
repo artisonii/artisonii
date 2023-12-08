@@ -32,4 +32,4 @@
 - HTML
 - CSS
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1ashutoshverma&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artisonii&theme=github_dark" />
